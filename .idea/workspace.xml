@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9a0e93be-b49f-4e53-9b1f-70dab142855d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../.idea/IDEA projects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2.2.1. Netology/2.2.1. Netology.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../3.2.1. Polymorfizm ver 3/3.2.1. Polymorfizm ver 3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../3.2.1. Polymorfizm ver 3/src/3.2.1. Polymorfizm ver 3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../3.2.1. Polymorfizm ver.2/3.2.1. Polymorfizm ver.2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../3.2.1. Polymorfizm/3.2.1. Polymorfizm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../3.2.2 Polymorfizm/3.2.2 Polymorfizm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../3.2.2. fo example 2/3.2.2. fo example 2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../3.3.1 Abstractionizm/3.3.1 Abstractionizm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../3.3.1 Not my version/3.3.1 Not my version.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../4.1 collection List/4.1 collection List.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../4.2.1 Queue/4.2.1 Queue.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../4.3.1 hash phonebook/4.3.1 hash phonebook.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../4.3.2. HashSet Students/4.3.2. HashSet Students.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../4.5.1 TreeSet/4.5.1 TreeSet.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Code Basic Example/Code Basic Example.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaRush 1.0/JavaRush 1.0..iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../JavaRush 1.0/JavaRush 1.0.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../first java/Code Basic Example.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../first java/first java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../for example 1/for example 1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Sololearn/Sololear/Sololear.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Sololearn/Sololear/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Stream.API/Stream-task1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Stream.API/Stream-task1/Stream-task1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Stream.API/Stream-task1/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Stream.API/Stream-task1/src/com/company/StreamMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Stream.API/Stream-task2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Stream.API/Stream-task2/Stream-task2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Stream.API/Stream-task2/src/com/company/Education.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Stream.API/Stream-task2/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Stream.API/Stream-task2/src/com/company/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Stream.API/Stream-task2/src/com/company/Sex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Stream.API/Stream.API-lesson/Stream.API-lesson.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Stream.API/Stream.API-lesson/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../files/files-installed/files-installed.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../files/files-installed/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../files/files-lesson/files-lesson.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../files/files-lesson/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../files/files-save/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../files/files-save/files-save.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../files/files-save/src/com/company/GameProgress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../files/files-save/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lambda_task2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lambda_task2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lambda_task2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lambda_task2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lambda_task2/lambda_task2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lambda_task2/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lambda_task2/src/com/company/OnTaskDoneListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lambda_task2/src/com/company/OnTaskErrorListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lambda_task2/src/com/company/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lambda_tasks/lambda_tasks.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lambda_tasks/src/com/company/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lambda_tasks/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-gradle-lesson/maven-gradle-lesson.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-gradle-lesson/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/target/api-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/target/classes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/src/main/java/Db.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/src/main/java/DbSetting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/src/main/java/MyEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/target/classes/Db.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/target/classes/DbSetting.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/target/classes/MyEntity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/target/db-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/src/main/java/MyService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/target/classes/MyService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/target/service-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-task1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-task1/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-task1/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-task1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-task1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-task1/db/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-task1/maven-task1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-task1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maven-task1/src/main/java/Programms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wtf/lambda_tasks.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wtf/src/com/company/CompleteCriteria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wtf/src/com/company/JobCriteria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wtf/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wtf/src/com/company/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wtf/src/com/company/PersonNameComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wtf/src/com/company/ToDoList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../wtf/src/com/company/company.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled1/untitled1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled2/untitled2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled3/3.4.1 Exceptions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../untitled3/untitled3.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="28fNB8LnaAwkgvRfNrsZLJksLtd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="api" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9a0e93be-b49f-4e53-9b1f-70dab142855d" name="Default Changelist" comment="" />
+      <created>1651603543066</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651603543066</updated>
+      <workItem from="1651603544238" duration="328000" />
+      <workItem from="1651603892022" duration="1058000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
